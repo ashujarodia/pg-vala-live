@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/pg-vala-live/static/css/main.19731267.css",
+    "main.js": "/pg-vala-live/static/js/main.8d920d1e.js",
+    "static/js/787.41cda596.chunk.js": "/pg-vala-live/static/js/787.41cda596.chunk.js",
+    "static/media/home1-img.jpg": "/pg-vala-live/static/media/home1-img.9fdc1bfe65518f220ffb.jpg",
+    "static/media/home2-img.jpg": "/pg-vala-live/static/media/home2-img.2f466d03e30260e0e4f0.jpg",
+    "static/media/home3-img.jpg": "/pg-vala-live/static/media/home3-img.422f5992983f92fc9270.jpg",
+    "static/media/logo-3.png": "/pg-vala-live/static/media/logo-3.efc5576e10af017a9db3.png",
+    "index.html": "/pg-vala-live/index.html",
+    "main.19731267.css.map": "/pg-vala-live/static/css/main.19731267.css.map",
+    "main.8d920d1e.js.map": "/pg-vala-live/static/js/main.8d920d1e.js.map",
+    "787.41cda596.chunk.js.map": "/pg-vala-live/static/js/787.41cda596.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.19731267.css",
+    "static/js/main.8d920d1e.js"
+  ]
+}
